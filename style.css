@@ -1,0 +1,56 @@
+
+.body{
+    display: flex;
+    min-height: 100vh;
+}
+
+
+#top-header {
+    display: flex;
+    justify-content: space-between
+    
+}
+
+.container{
+    display: flex;
+}
+
+
+
+#logo {
+
+}
+
+
+
+li{
+    display: inline;
+}
+
+.second-header{
+    display: flex;
+    justify-content: center;
+}
+
+
+.boxes{
+
+display: flex;
+justify-content: center;
+   
+}
+
+
+
+.box{
+display: flex;
+justify-content: center;
+ width: 125px;
+ height: 125px;   
+    
+}
+
+* {
+    border: 2px solid red;
+  }
+  
